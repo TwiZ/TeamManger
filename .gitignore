@@ -1,5 +1,12 @@
 /.idea
 /.project
+/.settings
 /.settings/org.eclipse.m2e.core.prefs
+/teammanager-desktop/.settings
 /teammanager-desktop/.classpath
 /teammanager-desktop/.project
+/teammanager-desktop/target
+/teammanager-core/.settings
+/teammanager-core/.classpath
+/teammanager-core/.project
+/teammanager-core/target

@@ -6,11 +6,12 @@
 
     <groupId>pl.baranski</groupId>
     <artifactId>teammanager</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<modules>
 		<module>teammanager-desktop</module>
+		<module>teammanager-core</module>
 	</modules>
 
 </project>
