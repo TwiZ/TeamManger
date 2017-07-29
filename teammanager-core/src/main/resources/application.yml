@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    driver: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/teammanager
+    username: postgres 
+    password: 1234
+
+liquibase:
+  change-log: classpath:/db/changelog/db.changelog-master.xml

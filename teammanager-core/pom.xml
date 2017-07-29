@@ -9,7 +9,7 @@
 		<version>1.0.0-SNAPSHOT</version>
 	</parent>
 
-	<artifactId>teammanager-backend-app</artifactId>
+	<artifactId>teammanager-core</artifactId>
 	<packaging>jar</packaging>
 
 	<properties>

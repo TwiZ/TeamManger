@@ -10,6 +10,7 @@
 	<packaging>pom</packaging>
 
 	<modules>
+		<module>teammanager-core</module>
 		<module>teammanager-backend-api</module>
 		<module>teammanager-backend-app</module>
 		<module>teammanager-desktop</module>
