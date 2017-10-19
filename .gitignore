@@ -18,3 +18,8 @@
 /teammanager-backend-app/target
 /teammanager-backend-app/.project
 /teammanager-backend-app/.classpath
+teammanager.iml
+teammanager-desktop/teammanager-desktop.iml
+teammanager-core/teammanager-core.iml
+teammanager-backend-app/teammanager-backend-app.iml
+teammanager-backend-api/teammanager-backend-api.iml
